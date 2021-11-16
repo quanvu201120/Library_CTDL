@@ -1,0 +1,81 @@
+01
+Thong diep cua nuoc
+Masaru Emoto
+Lao Dong
+15/11/2021
+70000
+2020
+146
+0
+02
+Nhung nha kham pha
+Daniel J.Boorstin
+Nha Nam
+15/11/2021
+200000
+2016
+750
+0
+03
+Du lieu lon
+Viktor Mayer
+NXB Tre
+15/11/2021
+140
+2019
+344
+0
+04
+Phan tich du lieu voi R
+Nguyen Van Tuan
+Tp Ho Chi Minh
+15/11/2021
+200000
+2020
+517
+0
+05
+Tri tue gia tao
+Nicholas Carr
+NXB Tre
+15/11/2021
+80000
+2019
+286
+0
+06
+Lap trinh va cuoc song
+Jeff Atwood
+Dan Tri
+15/11/2021
+130000
+2018
+324
+0
+07
+The Pragmatic Programmer
+Andy Hunt
+Tp Ho Chi Minh
+15/11/2021
+1000000
+1999
+700
+0
+08
+Sinh Hoc
+Vu The Quan
+Ha Noi
+16/11/2021
+89000
+2001
+200
+0
+09
+Anh van
+Vu The Quan
+Viet Nam
+16/11/2021
+45000
+2021
+188
+0
