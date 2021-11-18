@@ -67,6 +67,7 @@ bool Login_Admin() {
 		else {
 
 			count--;
+			PassWord = "";
 
 			if (count == 0) {
 				return false;
